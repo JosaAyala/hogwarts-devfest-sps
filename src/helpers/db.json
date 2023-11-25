@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "username": "dumbledore",
+    "name": "Albus Percival Wulfric Brian Dumbledore",
+    "password": "abcde",
+    "permissions": [
+      {
+        "menuOption": "home",
+        "access": ["read", "write"]
+      },
+      {
+        "menuOption": "gryffindor",
+        "access": ["read", "write"]
+      },
+      {
+        "menuOption": "slytherin",
+        "access": ["read", "write"]
+      },
+      {
+        "menuOption": "ravenclaw",
+        "access": ["read", "write"]
+      },
+      {
+        "menuOption": "hufflepuff",
+        "access": ["read", "write"]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "username": "hermione",
+    "name": "Hermione Granger",
+    "password": "abcde",
+    "permissions": [
+      {
+        "menuOption": "home",
+        "access": ["read"]
+      },
+      {
+        "menuOption": "gryffindor",
+        "access": ["read"]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "username": "draco",
+    "name": "Draco Malfoy",
+    "password": "abcde",
+    "permissions": [
+      {
+        "menuOption": "home",
+        "access": ["read"]
+      },
+      {
+        "menuOption": "slytherin",
+        "access": ["read"]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "username": "cedric",
+    "name": "Cedric Diggory",
+    "password": "abcde",
+    "permissions": [
+      {
+        "menuOption": "home",
+        "access": ["read"]
+      },
+      {
+        "menuOption": "hufflepuff",
+        "access": ["read"]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "username": "luna",
+    "name": "Luna Lovegood",
+    "password": "abcde",
+    "permissions": [
+      {
+        "menuOption": "home",
+        "access": ["read"]
+      },
+      {
+        "menuOption": "ravenclaw",
+        "access": ["read"]
+      }
+    ]
+  }
+]
